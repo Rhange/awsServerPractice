@@ -1,7 +1,7 @@
 # awsServerPractice
 
-├── db.sqlite3
-├── manage.py
+├── db.sqlite3\n
+├── manage.py\n
 ├── requirements.txt
 ├── tobeserverdeveloper
 │   ├── __init__.py
