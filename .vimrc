@@ -1,0 +1,12 @@
+set tabstop=4
+set background=dark
+set autoindent
+set smartindent
+set ruler
+set shiftwidth=4
+set hlsearch
+set number
+set paste!
+set title
+set history=200
+set ignorecase
