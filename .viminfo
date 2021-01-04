@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1609734657,,"wq"
+|2,0,1609735165,,"wq"
 :q
 |2,0,1609734096,,"q"
 :w
@@ -41,36 +41,78 @@
 |3,1,36,0,1,0,1609734655,"export PYTHONPATH"
 
 # File marks:
-'0  9  3  ~/.bashrc
-|4,48,9,3,1609734657,"~/.bashrc"
-'1  4  7  ~/requirements.txt
-|4,49,4,7,1609734450,"~/requirements.txt"
-'2  13  16  ~/.bashrc
-|4,50,13,16,1609734280,"~/.bashrc"
-'3  1  0  ~/.bashrc
-|4,51,1,0,1609734096,"~/.bashrc"
-'4  1  0  ~/.bashrc
-|4,52,1,0,1609734096,"~/.bashrc"
-'5  1  0  ~/.bashrc
-|4,53,1,0,1609734096,"~/.bashrc"
+'0  8  0  ~/.gitignore
+|4,48,8,0,1609735165,"~/.gitignore"
+'1  1  5  ~/.gitignore
+|4,49,1,5,1609735117,"~/.gitignore"
+'2  1  5  ~/.gitignore
+|4,50,1,5,1609735117,"~/.gitignore"
+'3  9  3  ~/.bashrc
+|4,51,9,3,1609734657,"~/.bashrc"
+'4  4  7  ~/requirements.txt
+|4,52,4,7,1609734450,"~/requirements.txt"
+'5  13  16  ~/.bashrc
+|4,53,13,16,1609734280,"~/.bashrc"
 '6  1  0  ~/.bashrc
 |4,54,1,0,1609734096,"~/.bashrc"
-'7  1  0  ~/manage.py
-|4,55,1,0,1609734005,"~/manage.py"
-'8  14  0  ~/tobeserverdeveloper/asgi.py
-|4,56,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
-'9  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,57,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
+'7  1  0  ~/.bashrc
+|4,55,1,0,1609734096,"~/.bashrc"
+'8  1  0  ~/.bashrc
+|4,56,1,0,1609734096,"~/.bashrc"
+'9  1  0  ~/.bashrc
+|4,57,1,0,1609734096,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  8  0  ~/.gitignore
+|4,39,8,0,1609735165,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1609735137,"~/.gitignore"
+-'  1  5  ~/.gitignore
+|4,39,1,5,1609735117,"~/.gitignore"
 -'  9  3  ~/.bashrc
 |4,39,9,3,1609734657,"~/.bashrc"
+-'  9  3  ~/.bashrc
+|4,39,9,3,1609734657,"~/.bashrc"
+-'  9  3  ~/.bashrc
+|4,39,9,3,1609734657,"~/.bashrc"
+-'  9  3  ~/.bashrc
+|4,39,9,3,1609734657,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734649,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734649,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734649,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1609734649,"~/.bashrc"
 -'  4  7  ~/requirements.txt
 |4,39,4,7,1609734450,"~/requirements.txt"
 -'  4  7  ~/requirements.txt
 |4,39,4,7,1609734450,"~/requirements.txt"
+-'  4  7  ~/requirements.txt
+|4,39,4,7,1609734450,"~/requirements.txt"
+-'  4  7  ~/requirements.txt
+|4,39,4,7,1609734450,"~/requirements.txt"
+-'  4  7  ~/requirements.txt
+|4,39,4,7,1609734450,"~/requirements.txt"
+-'  4  7  ~/requirements.txt
+|4,39,4,7,1609734450,"~/requirements.txt"
+-'  4  7  ~/requirements.txt
+|4,39,4,7,1609734450,"~/requirements.txt"
+-'  4  7  ~/requirements.txt
+|4,39,4,7,1609734450,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1609734438,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1609734438,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1609734438,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1609734438,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1609734438,"~/requirements.txt"
+-'  1  0  ~/requirements.txt
+|4,39,1,0,1609734438,"~/requirements.txt"
 -'  1  0  ~/requirements.txt
 |4,39,1,0,1609734438,"~/requirements.txt"
 -'  1  0  ~/requirements.txt
@@ -79,10 +121,46 @@
 |4,39,13,16,1609734280,"~/.bashrc"
 -'  13  16  ~/.bashrc
 |4,39,13,16,1609734280,"~/.bashrc"
+-'  13  16  ~/.bashrc
+|4,39,13,16,1609734280,"~/.bashrc"
+-'  13  16  ~/.bashrc
+|4,39,13,16,1609734280,"~/.bashrc"
+-'  13  16  ~/.bashrc
+|4,39,13,16,1609734280,"~/.bashrc"
+-'  13  16  ~/.bashrc
+|4,39,13,16,1609734280,"~/.bashrc"
+-'  13  16  ~/.bashrc
+|4,39,13,16,1609734280,"~/.bashrc"
+-'  13  16  ~/.bashrc
+|4,39,13,16,1609734280,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1609734231,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734231,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734096,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734096,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734096,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734096,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734096,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1609734096,"~/.bashrc"
 -'  1  0  ~/.bashrc
 |4,39,1,0,1609734096,"~/.bashrc"
 -'  1  0  ~/.bashrc
@@ -119,152 +197,82 @@
 |4,39,1,0,1609734005,"~/manage.py"
 -'  1  0  ~/manage.py
 |4,39,1,0,1609734005,"~/manage.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  14  0  ~/tobeserverdeveloper/asgi.py
-|4,39,14,0,1609733772,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  1  0  ~/tobeserverdeveloper/asgi.py
-|4,39,1,0,1609733769,"~/tobeserverdeveloper/asgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
--'  14  35  ~/tobeserverdeveloper/wsgi.py
-|4,39,14,35,1609733762,"~/tobeserverdeveloper/wsgi.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
+-'  1  0  ~/manage.py
+|4,39,1,0,1609734005,"~/manage.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1609735164	0
+	"	8	0
+	^	8	0
+	.	7	25
+	+	1	6
+	+	7	25
 
 > ~/.bashrc
 	*	1609734656	0
