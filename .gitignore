@@ -5,4 +5,4 @@ venv/*
 .bashrc
 .profile
 .sudo_as_admin_successful
-tobeserverdeveloper/__pycache__/*
+server_dev/__pycache__/*
